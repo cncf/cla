@@ -1,2 +1,2 @@
 # cla
-CLAs for CNCF
+This repository contains the individual and corporate CLAs for CNCF.
