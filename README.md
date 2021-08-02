@@ -1,5 +1,5 @@
-# cla
-CLAs for CNCF
+# CLA
+Contributor License Agreements (CLAs) for CNCF.
 
 ## Troubleshooting
 
@@ -9,6 +9,6 @@ Foundation ID group through the [Linux Foundation Support Site].
 Should you have any issues using the LF Support Site, send a message to the
 backup e-mail support address <login-issues@jira.linuxfoundation.org>
 
-Someone from the CNCF will respond to your ticket to help.
+Someone from the LF/CNCF will respond to your ticket to help.
 
 [Linux Foundation Support Site]: https://support.linuxfoundation.org/
