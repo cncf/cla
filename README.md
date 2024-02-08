@@ -1,4 +1,5 @@
 # CLA
+
 Contributor License Agreements (CLAs) for CNCF.
 
 ## Troubleshooting
@@ -11,4 +12,4 @@ backup e-mail support address <login-issues@jira.linuxfoundation.org>
 
 Someone from the LF/CNCF will respond to your ticket to help.
 
-[Linux Foundation Support Site]: https://support.linuxfoundation.org/
+[Linux Foundation Support Site]: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/143
