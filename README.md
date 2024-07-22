@@ -2,6 +2,11 @@
 
 Contributor License Agreements (CLAs) for CNCF.
 
+Please sign the CLA electronically via https://easycla.lfx.linuxfoundation.org
+
+You can see more details here as an example for the Kubernetes project:
+https://github.com/kubernetes/community/blob/master/CLA.md#how-do-i-sign
+
 ## Troubleshooting
 
 If you encounter any problems signing the CLA, log a ticket with the Linux
